@@ -4,14 +4,14 @@ O projeto tem a finalidade de entender e experimentar a aplicação de filtros e
 
 Para executar os códigos em python, devem ser executados os seguintes comandos para instalar as bibliotecas:
 
-'''
+```
 pip install pandas
 pip install matplotlib
 pip install numpy
 pip install scipy
 pip install filterpy
 pip install pyserial
-'''
+```
 
 Os dados em .csv foram gerados a partir do arduino UNO, com o código especificado na pasta GY521, e lidos pelo terminal serial a partir de Python, no código MPU6050_Leitura_em_Y.py
 
